@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitHub Wallpaper</string>
+    <string name="wallpaper_description">Display your GitHub contribution graph as a live wallpaper</string>
+    <string name="wallpaper_author">Rahul</string>
+    
+    <!-- UI Strings -->
+    <string name="enter_username">Enter GitHub Username</string>
+    <string name="set_wallpaper">Set as Wallpaper</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="current_streak">Current Streak</string>
+    <string name="longest_streak">Longest Streak</string>
+    <string name="today_commits">Today\'s Commits</string>
+    <string name="days">days</string>
+    <string name="commits">commits</string>
+    
+    <!-- Error Messages -->
+    <string name="error_empty_username">Please enter a username</string>
+    <string name="error_fetch_failed">Failed to fetch contribution data</string>
+    <string name="error_network">Network error. Using cached data.</string>
+    <string name="loading">Loading…</string>
+</resources>
